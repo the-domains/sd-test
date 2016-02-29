@@ -1,7 +1,7 @@
 name: SD-test
 favicon: null
-layout_spectrum: 0.011586481239646673
-typography_spectrum: 0.8468694929033518
+layout_spectrum: 0.7596
+typography_spectrum: 0.26552
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 0.7270475951954722
+  brandStrength: 0.5
   lightness: 0.3562175529077649
   saturation: 0.3455569273792207
-  rhythmicContrast: 0.34429000434465706
+  rhythmicContrast: 0.75
 purpose: []
